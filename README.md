@@ -7,7 +7,7 @@ For more projects, check out my GitHub repositories https://github.com/amrutashi
 ## 📫 Contact
 
 - Email: shingankuliamruta@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: in/amruta-shingankuli-343144268
 
 
 # 💻 Tech Stack:
