@@ -2,7 +2,7 @@
 
 🚀 Aspiring engineer. Currently studying Artificial Intelligence and Machine Learning at Sahyadri College of Engineering and Management. Open to new opportunities and collaborations!
 
-For more projects, check out my [GitHub repositories](link).
+For more projects, check out my GitHub repositories https://github.com/amrutashingankuli682?tab=repositories.
 
 ## 📫 Contact
 
