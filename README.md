@@ -1,41 +1,13 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Amruta Shingankuli! 👋
 
-🚀 Aspiring engineer passionate about [Your Engineering Specialization]. Currently studying [Your Engineering Discipline] at [Your University]. Open to new opportunities and collaborations!
-
-## 🔧 Skills
-
-- **Programming Languages**: Python, Java, C/C++
-- **Software Tools**: MATLAB, SolidWorks, AutoCAD
-- **Web Technologies**: HTML/CSS, JavaScript
-- **Version Control**: Git
-- **Other**: [Any other relevant skills]
-
-## 📚 Education
-
-- **Bachelor's Degree**: [Your Engineering Discipline], [Your University]
-  - [Year Started] - [Expected Year of Graduation]
-
-## 🛠️ Projects
-
-Here are some projects I've been working on:
-
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
+🚀 Aspiring engineer. Currently studying Artificial Intelligence and Machine Learning at Sahyadri College of Engineering and Management. Open to new opportunities and collaborations!
 
 For more projects, check out my [GitHub repositories](link).
 
 ## 📫 Contact
 
-- Email: [Your Email Address]
+- Email: shingankuliamruta@gmail.com
 - LinkedIn: [Your LinkedIn Profile URL]
-
-## 🌟 Let's Connect
-
-Feel free to connect with me on GitHub and explore my projects! Don't hesitate to reach out if you have any questions or want to collaborate.
-
-[![GitHub followers](https://img.shields.io/github/followers/[YourGitHubUsername]?style=social)](https://github.com/[YourGitHubUsername])
-[![GitHub stars](https://img.shields.io/github/stars/[YourGitHubUsername]/[YourRepository]?style=social)](https://github.com/[YourGitHubUsername]/[YourRepository])
 
 
 # 💻 Tech Stack:
